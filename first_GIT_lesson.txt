@@ -1,0 +1,1 @@
+Second exercise is to modify first_GIT_lesson.txt
